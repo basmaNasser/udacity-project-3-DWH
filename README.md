@@ -135,6 +135,9 @@ Project-3 also contains the following files:
 
 * **Udacity-DEND-redshift-cluster.ipynb**: Jupyter Notebook for the following:
 1- starting and stopping AWS Redshift cluster. 
+
 2- to run test queries.
+
 3- create IAM role
+
 4- clean up cluster
